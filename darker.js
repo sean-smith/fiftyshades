@@ -24,8 +24,13 @@ var colors = [
 	{color: '#FBFBFB', name: 'Uber API'},
 	{color: '#F3F3F3', name: 'Medium'},
 	{color: '#FAFAFA', name: 'nvie.com'},
-	{color: '#F6F6F6', name: 'www.codeword.xyz'},
-	{color: '#E9EAEA', name: 'Code Academy'}
+	{color: '#F6F6F6', name: 'codeword.xyz'},
+	{color: '#E9EAEA', name: 'Code Academy'},
+	{color: '#F6F6F6', name: 'Quora'},
+	{color: '#F4F4F4', name: 'Quora Code Snippet'},
+	{color: '#F4F7F8', name: 'Team Treehouse'},
+	{color: '#F0F0F0', name: 'AWS Documentation'},
+	{color: '#DDE4E9', name: 'MDN'}
 ];
 
 
