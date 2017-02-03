@@ -24,11 +24,14 @@ p {
 .swath {
 	border-radius: 10px;
 	height: 200px;
-	margin-bottom: 30px;
+	margin-bottom: 10px;
 	vertical-align: middle; 
   	text-align: center;
   	font-size: 24pt;
 	font-family: "LatoWeb";
+	width: 340px;
+	float: left;
+	margin-left: 10px;
 }
 
 .text {

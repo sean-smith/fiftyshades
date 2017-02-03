@@ -30,7 +30,8 @@ var colors = [
 	{color: '#F4F4F4', name: 'Quora Code Snippet'},
 	{color: '#F4F7F8', name: 'Team Treehouse'},
 	{color: '#F0F0F0', name: 'AWS Documentation'},
-	{color: '#DDE4E9', name: 'MDN'}
+	{color: '#DDE4E9', name: 'MDN'},
+	{color: '#EBEFF2', name: 'LinkedIn'}
 ];
 
 
