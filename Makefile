@@ -7,7 +7,7 @@
 # 	make deploy
 
 deploy:
-	aws s3 sync ../fifty_shades s3://fiftyshades.seanssmith.com\
+	aws s3 sync ../fiftyshades s3://fiftyshades.seanssmith.com\
 		--exclude ".git/*"\
 		--exclude ".gitignore"\
 		--exclude "Makefile"\
